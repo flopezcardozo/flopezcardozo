@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**flopezcardozo/flopezcardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 I’m 41 years old
+- 💻 I’m currently working on IT in an Uruguayan enterprise calles Antel
+- 👨‍🎓 I'm currently studying IT at UTEC
+- 🤓 I’m learning React and Python to be a Full-Stack Developer on 4Geeks Academy
+- 👯 I’m looking to collaborate on some interesting development project and to practice my English skills
+- 📫 How to reach me: https://www.linkedin.com/in/fabián-lópez-442111143/
+- 📝 Or write me to my email: flopezcardozo@gmail.com
+- ⚡ Fun fact: I love sports and movies
+- 🤔 Another fun fact: I'm studying Teaching in Networks and Telecomuncations
 
-Here are some ideas to get you started:
+🚀 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- ReactJS
+- Java
+- Android Studio
+- DevOps
+
+📲 Please contact me on:
+
+LinkedIn: 🔗https://www.linkedin.com/in/fabián-lópez-442111143/
+
+Or Gmail: flopezcardozo@gmail.com
+
+⚽ Nice to meet you!
