@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😎 I’m 41 years old
-- 💻 I’m currently working on IT in an Uruguayan enterprise calles Antel
+- 💻 I’m currently working on Salesforce in an Uruguayan enterprise called Nimacloud
 - 👨‍🎓 I'm currently studying IT at UTEC
 - 🤓 I’m learning React and Python to be a Full-Stack Developer on 4Geeks Academy
 - 👯 I’m looking to collaborate on some interesting development project and to practice my English skills
