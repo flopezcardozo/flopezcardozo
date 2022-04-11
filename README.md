@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 😎 I’m 41 years old
-- 💻 I’m currently working on Salesforce in an Uruguayan enterprise called Nimacloud
+- 💻 I’m currently working on Salesforce in an Uruguayan enterprise called Hikko
 - 👨‍🎓 I'm currently studying IT at UTEC
-- 🤓 I’m learning React and Python to be a Full-Stack Developer on 4Geeks Academy
+- 🤓 I’ve learned React and Python to be a Full-Stack Developer on 4Geeks Academy
 - 👯 I’m looking to collaborate on some interesting development project and to practice my English skills
 - 📫 How to reach me: https://www.linkedin.com/in/fabián-lópez-442111143/
 - 📝 Or write me to my email: flopezcardozo@gmail.com
@@ -19,11 +19,12 @@
 - ReactJS
 - Java
 - Android Studio
+- Salesforce
 - DevOps
 
 📲 Please contact me on:
 
-LinkedIn: 🔗https://www.linkedin.com/in/fabián-lópez-442111143/
+LinkedIn: 🔗https://www.linkedin.com/in/fabián-lópez
 
 Or Gmail: flopezcardozo@gmail.com
 
