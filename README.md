@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 😎 I’m 43 years old
+- 😎 I’m 44 years old
 - 💻 I’m currently working on Salesforce in an enterprise called Nespon
-- 👨‍🎓 I've finished my Degree in IT career at UTEC
+- 🥳 I've been working in several projects with Salesforce
+- 👨‍🎓 I've finished my Degree in IT at UTEC
 - 🤓 I’ve learned React and Python to be a Full-Stack Developer on 4Geeks Academy
 - 👯 I’m looking to collaborate on some interesting development or DevOps projects and to practice my English skills
 - 📫 How to reach me: https://www.linkedin.com/in/flopezcardozo/
@@ -20,6 +21,10 @@
 - Java
 - Android Studio
 - Salesforce
+- OmniStudio
+- LWC
+- Apex
+- Digital Engagement
 - DevOps
 - CI/CD
 
