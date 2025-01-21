@@ -36,6 +36,10 @@
   - Copado
 - CI/CD
 
+<!-- Start Actividad Reciente-->
+
+<!-- End Actividad Reciente-->
+
 📲 Please contact me on:
 
 LinkedIn: 🔗https://www.linkedin.com/in/flopezcardozo/
