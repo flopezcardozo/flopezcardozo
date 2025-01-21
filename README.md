@@ -13,19 +13,27 @@
 
 🚀 Skills:
 
-- HTML5
-- CSS3
+- HTML5/CSS3/JS
 - Bootstrap
-- JavaScript
-- ReactJS
-- Java
+- ReactJS/AngularJS
+- Java/APEX
+- C#/.NET
 - Android Studio
-- Salesforce
+- Salesforce Development
+  - Sales Cloud
+  - Service Cloud
+  - Marketing Cloud
+  - Customer Support
+  - Field Service
+  - Lightning Experience
+  - Digital Engagement
 - OmniStudio
-- LWC
-- Apex
-- Digital Engagement
 - DevOps
+  - Docker
+  - AWS
+  - Azure
+  - Jenkins
+  - Copado
 - CI/CD
 
 📲 Please contact me on:
