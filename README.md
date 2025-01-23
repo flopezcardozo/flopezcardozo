@@ -23,6 +23,8 @@
   - Sales Cloud
   - Service Cloud
   - Marketing Cloud
+  - Data Cloud
+  - Field Service
   - Customer Support
   - Field Service
   - Lightning Experience
